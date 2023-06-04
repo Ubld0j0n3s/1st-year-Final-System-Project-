@@ -1,0 +1,38 @@
+
+Name: Ubald Jones L. Tuquib
+Address: Kisolon, Sumilao, Bukidnon
+Age: 19
+Birthday: 01/20/2004
+Phone Number: 09631308925
+
+	
+Highblood: Y	
+Number of Experience: 1	
+Cough: N	
+Fever: Y	
+Number of Experience: 1	
+Cold: N	
+Asthma: N	
+Arthritis: Y	
+Number of Experience: 1	
+Obesity: N	
+Cancer: N
+
+
+Name: Jan Steven E. Butaya
+Address: Kisolon, Sumilao, Bukidnon
+Age: 19
+Birthday: 01/01/2004
+Phone Number: 0967956422
+
+	
+Highblood: Y	
+Number of Experience: 3	
+Cough: N	
+Fever: N	
+Cold: N	
+Asthma: N	
+Arthritis: N	
+Obesity: N	
+Cancer: N
+

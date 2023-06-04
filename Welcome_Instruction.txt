@@ -1,0 +1,15 @@
+  ________                      __  .__                      
+ /  _____/______   ____   _____/  |_|__| ____    ____  ______
+/   \  __\_  __ \_/ __ \_/ __ \   __\  |/    \  / ___\/  ___/
+\    \_\  \  | \/\  ___/\  ___/|  | |  |   |  \/ /_/  >___ \ 
+ \______  /__|    \___  >\___  >__| |__|___|  /\___  /____  >
+        \/            \/     \/             \//_____/     \/                                     
+
+We The Tech Wizard conduct health survey about inheritance diseases in your baranggay specially in Brgy. Kisolon.
+We also get your personal information to easily monitor and record the data that we conducted.
+Identify areas of need for targeted interventions, and track trends in health over time. 
+However, the accuracy and reliability of survey data depend on various factors, such as the quality of survey design, 
+sample size, response rates, and the validity and reliability of the questions asked. 
+Therefore, it is essential to carefully consider these factors when conducting and interpreting health surveys.
+
+Thank You for Participation and Cooperation with our system.
